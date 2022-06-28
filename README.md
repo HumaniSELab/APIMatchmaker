@@ -22,3 +22,5 @@
 3. The *Helper* folder contains some basic functions, such as the crawler we used to collect the descriptions.
 
 4. The *Main* folder contains the contains the most core code, including the implementation of our approach.
+
+More information: https://www.monash.edu/it/humanise-lab/projects/current-projects/big-code-augmented-android-app-development
